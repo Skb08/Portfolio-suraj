@@ -1,0 +1,79 @@
+.experience {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5rem;
+  height: 40vh;
+  margin-bottom: 8rem;
+  margin-top: 10rem;
+  /* darkmode */
+  color: var(--black);
+}
+.achievement{
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+}
+.title span:nth-of-type(1) {
+    color: var(--black);
+    font-size: 2rem;
+    font-weight: bold;
+    /* top: 8rem;
+    left: -14rem ; */
+  }
+  
+.title span:nth-of-type(2) {
+color: var(--orange);
+font-size: 2.5rem;
+font-weight: bold;
+}
+  
+
+.circle {
+    width: 6rem;
+    height: 6rem;
+    background: white;
+    border-radius: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+.circle::before {
+    border-radius: 100%;
+    content: '';
+    background-color: rgb(240, 183, 194);
+    top: -8px;
+    left: -8px;
+    bottom: -8px;
+    right: -8px;
+    position: absolute;
+    z-index:-1;
+    box-shadow: var(--boxShadow);
+}
+
+.achievement span:nth-of-type(2){
+    color: var(--orange);
+}
+
+.s-blur3 {
+    left: 50rem;
+    top: 12rem;
+}
+
+@media screen and (max-width: 480px){
+    .experience{
+        flex-direction: column!important;
+        /* gap: 4rem !important; */
+        margin-top: 22rem !important;
+        
+    }
+    .achievement{
+        gap: 0rem!important;
+        /* margin-top: -2rem!important; */
+        
+    }
+}
