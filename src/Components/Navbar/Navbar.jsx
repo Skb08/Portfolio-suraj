@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className="n-wrapper">
         <div className="n-left">
             <img src={skb1} className='logo' alt="" />
-            <div className="n-name">Suraj</div>
+            {/* <div className="n-name">Suraj</div> */}
             {/* <Toggle/> */}
         </div>
         <div className="n-right">
@@ -33,7 +33,10 @@ const Navbar = () => {
                     
                 </ul>
             </div>
-            <button className="button n-button">Contact</button>
+            <Link spy={true} to='Contact' smooth={true}  >
+                <button className="button n-button">Contact</button>       
+            </Link>
+            
         </div>
     </div>
   )
