@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio-suraj/static/css/main.67f821ba.css",
+    "main.js": "/Portfolio-suraj/static/js/main.a076f432.js",
+    "static/media/pro4.png": "/Portfolio-suraj/static/media/pro4.e081306304ee976b4a8f.png",
+    "static/media/pro6.png": "/Portfolio-suraj/static/media/pro6.1c08ecaf1f52152ff2c6.png",
+    "static/media/pro3.png": "/Portfolio-suraj/static/media/pro3.f6f28b02a75b684b8895.png",
+    "static/media/pro5.png": "/Portfolio-suraj/static/media/pro5.8bf66d75c36dab202775.png",
+    "static/media/pro2.png": "/Portfolio-suraj/static/media/pro2.99cba5035893ee1c8948.png",
+    "static/media/pro1.png": "/Portfolio-suraj/static/media/pro1.ec0ae0f9956a26aad9f3.png",
+    "static/media/pro7.png": "/Portfolio-suraj/static/media/pro7.00163334610443170fb9.png",
+    "static/media/pro8.png": "/Portfolio-suraj/static/media/pro8.1667d61b49eb8945898e.png",
+    "static/media/person1.png": "/Portfolio-suraj/static/media/person1.2aa356fb3c75ed2a9dee.png",
+    "static/media/glassesimoji.png": "/Portfolio-suraj/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/121CR0114_suraj_1.pdf": "/Portfolio-suraj/static/media/121CR0114_suraj_1.f8a0e8decb857974e3f4.pdf",
+    "static/media/skb1.png": "/Portfolio-suraj/static/media/skb1.5ab4687147184b08ee7d.png",
+    "static/media/thumbup.png": "/Portfolio-suraj/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Portfolio-suraj/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Portfolio-suraj/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Portfolio-suraj/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Portfolio-suraj/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/glasses.png": "/Portfolio-suraj/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Portfolio-suraj/index.html",
+    "main.67f821ba.css.map": "/Portfolio-suraj/static/css/main.67f821ba.css.map",
+    "main.a076f432.js.map": "/Portfolio-suraj/static/js/main.a076f432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f821ba.css",
+    "static/js/main.a076f432.js"
+  ]
+}
