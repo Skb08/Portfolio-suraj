@@ -41,9 +41,61 @@
 
 
 @media screen and (max-width: 480px){
+  .portfolio {
+    height: 250vh !important;
+  }
   .portfolio-slider{
     transform: scale(0.5)!important;
+    /* margin-top: 30rem; */
     /* gap: 6rem !important;
     width: 50%!important; */
+    
   }
-}
+ .swipe-down1 {
+    display: flex !important;
+    flex-direction: column !important;
+    margin-top: -29rem;
+  }
+  .swipe-down2 {
+    display: flex !important;
+    flex-direction: column !important;
+    margin-top: -17rem;
+    margin-left: -6rem;
+  }
+  .swipe-down3 {
+    display: flex !important;
+    flex-direction: column !important;
+    margin-top: -5rem;
+    margin-left: -6rem;
+  }
+  .swipe-down4 {
+    display: flex !important;
+    flex-direction: column !important;
+    margin-top: 7rem;
+    margin-left: -6rem;
+  }
+  .swipe-down5 {
+    display: flex !important;
+    flex-direction: column !important;
+    margin-top: 19rem;
+    margin-left: -6rem;
+  }
+  .swipe-down6 {
+    display: flex !important;
+    flex-direction: column !important;
+    margin-top: 31rem;
+    margin-left: -6rem;
+  }
+  .swipe-down7 {
+    display: flex !important;
+    flex-direction: column !important;
+    margin-top: 43rem;
+    margin-left: -6rem;
+  }
+  .swipe-down8 {
+    display: flex !important;
+    flex-direction: column !important;
+    margin-top: 55rem;
+    margin-left: -6rem;
+  }
+} 

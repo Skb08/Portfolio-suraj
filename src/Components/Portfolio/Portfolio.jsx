@@ -24,35 +24,31 @@ const Portfolio = () => {
       spaceBetween={30}
       slidesPerView={3}
       grabCursor={true}
-      className='portfolio-slider'
-      >
-        <SwiperSlide>
+      className='portfolio-slider'>
+        <SwiperSlide className='swipe-down1'>
           <img src={pro1} alt="" />
-        </SwiperSlide>
-        <SwiperSlide>
+        </SwiperSlide >
+        <SwiperSlide className='swipe-down2'>
           <img src={pro2} alt="" />
-        </SwiperSlide>
-        <SwiperSlide>
+        </SwiperSlide >
+        <SwiperSlide className='swipe-down3'>
           <img src={pro3} alt="" />
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className='swipe-down4'>
           <img src={pro4} alt="" />
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className='swipe-down5'>
           <img src={pro5} alt="" />
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className='swipe-down6'>
           <img src={pro6} alt="" />
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className='swipe-down7'>
           <img src={pro7} alt="" />
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className='swipe-down8'>
           <img src={pro8} alt="" />
         </SwiperSlide>
-
-
-
       </Swiper>
     </div>
   )

@@ -2,6 +2,30 @@
     "folders": [
         {
             "path": ".."
+        },
+        {
+            "path": "../../C"
+        },
+        {
+            "path": "../../BACKEND"
+        },
+        {
+            "path": "../../hackodisha4.0"
+        },
+        {
+            "path": "../../health hist"
+        },
+        {
+            "path": "../../../Desktop/health hist"
+        },
+        {
+            "path": "../../API"
+        },
+        {
+            "path": "../../health01"
         }
-    ]
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "HTML"
+    }
 }
