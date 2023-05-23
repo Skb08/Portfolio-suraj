@@ -76,4 +76,10 @@ font-weight: bold;
         /* margin-top: -2rem!important; */
         
     }
+    .s-blur3{
+        display: none;
+    }
+    .s-blur2{
+        left: -4rem !important;
+    }
 }
